@@ -1,5 +1,3 @@
-
-hello git
-change
-another change
+Second commit
+	hello git
 change
